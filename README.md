@@ -7,4 +7,4 @@ This is a simple two-player Tic-Tac-Toe game you can play in your terminal. Itâ€
 3. Displays the board after every move
 ## How to run it
 1. Copy the code from Tic_Tac_Toe.c
-2. Compile the program using any c compiler:
+2. Compile the program using any c compiler.
